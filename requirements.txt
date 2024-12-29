@@ -1,0 +1,7 @@
+tkinter
+calendar
+smtplib
+python-dotenv
+ics
+reportlab
+pandas
